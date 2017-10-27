@@ -1,5 +1,3 @@
-package urovo.giftsprit;
-
 import android.app.Application;
 
 /**
